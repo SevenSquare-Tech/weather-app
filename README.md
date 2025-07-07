@@ -12,6 +12,8 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
 <img src="./4.png" width="20%"></img>
 </p>
 
+[Complete Guide to Build a Weather App in Flutter.](https://www.sevensquaretech.com/build-weather-app-flutter-with-api-full-code-github/)
+
 ## API Docs
 
 > [!IMPORTANT]
